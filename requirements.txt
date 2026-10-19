@@ -1,0 +1,4 @@
+reportlab
+pypdf
+pillow
+pillow-heif
