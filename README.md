@@ -1,4 +1,4 @@
-# prodrafts2pdf
+# ProDrafts PDF Exporter
 
 Convierte un archivo de **Pro Drafts** (`.prodrafts` o `.prodrafts.zip`) en un **PDF** donde los trazos del Apple Pencil son **vectores** (zoom ilimitado sin pérdida de calidad), conservando el PDF de fondo de cada página, las imágenes insertadas, las formas y las líneas.
 
